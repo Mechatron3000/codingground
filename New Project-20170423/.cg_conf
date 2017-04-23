@@ -1,0 +1,1 @@
+{"id":"pascal","ext":"pas","version":"Free Pascal v2.6.4","compile":"fpc -vw main.pas","execute":"main","preview":"","command":"","file":"/home/cg/src/samples/main.pas","url":"compile_pascal_online.php","mode":"pascal"}
